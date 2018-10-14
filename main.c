@@ -12,7 +12,7 @@ int main() {
     char dzialanie;
 
     user_info();
-
+ 
     pobieranieDanych(&a, &b, &dzialanie);
 
     wyswietlenieWynikow(a, b, dzialanie);
